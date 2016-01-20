@@ -11,6 +11,10 @@
     "combo"
   ],
   "author": "SkyCai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnt1992/rcombo.git"
+  },
   "license": "ISC",
   "dependencies": {
     "async": "^1.5.2",
