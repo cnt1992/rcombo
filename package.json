@@ -1,0 +1,21 @@
+{
+  "name": "rcombo",
+  "version": "1.0.4",
+  "description": "Remote combine (optional compress) JS or CSS files into single one",
+  "main": "index.js",
+  "scripts": {
+    "test js": "node test/test_js.js",
+    "test css": "node test/test_css.js"
+  },
+  "keywords": [
+    "combo"
+  ],
+  "author": "SkyCai",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "clean-css": "^3.4.9",
+    "request": "^2.67.0",
+    "uglify-js": "^2.6.1"
+  }
+}
